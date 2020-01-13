@@ -35,15 +35,15 @@ function App() {
           <h1>Our Apps</h1>
           <div className="Previews">
             <div className="App-Preview">
-              <img src={harbor} className="App-Preview" alt="logo" />
+              <a href="https://harbor.komodollc.com"><img src={harbor} className="App-Preview" alt="logo" /></a>
               <a href="https://harbor.komodollc.com">Harbor</a>
             </div>
             <div className="App-Preview">
-              <img src={homely} className="App-Preview" alt="logo" />
+              <a href="https://homely.komodollc.com"><img src={homely} className="App-Preview" alt="logo" /></a>
               <a href="https://homely.komodollc.com">Homely</a>
             </div>
             <div className="App-Preview">
-              <img src={finale} className="App-Preview" alt="logo" />
+              <a href="https://finale.komodollc.com"><img src={finale} className="App-Preview" alt="logo" /></a>
               <a href="https://finale.komodollc.com">Finale</a>
             </div>
           </div>
