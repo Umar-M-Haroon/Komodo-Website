@@ -7,6 +7,7 @@ import mac from './mac.png';
 import finale from './finale.png';
 import harbor from './harbor.png';
 import homely from './homely.png';
+import { Link } from "react-router-dom";
 import './App.css'
 class MainScreen extends React.Component {
     render() {
@@ -51,6 +52,8 @@ class MainScreen extends React.Component {
                         </div>
                     </div>
                 </header>
+                <Link to="/Privacy">Privacy Policy</Link>
+                <Link to="/Terms">Terms</Link>
             </div>
         )
     }
