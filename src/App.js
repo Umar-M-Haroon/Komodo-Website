@@ -3,7 +3,7 @@ import './App.css';
 import MainScreen from './MainScreen';
 import PrivacyScreen from './PrivacyScreen';
 import TermsScreen from './TermsScreen';
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 
 function App() {
   return (
