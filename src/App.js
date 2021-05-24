@@ -9,10 +9,10 @@ function App() {
   return (
     <div className="App">
       <Router>
-          <Route path="/Privacy">
+          <Route path="/Privacy" component={PrivacyScreen}>
             <PrivacyScreen />
           </Route>
-          <Route path="/Terms">
+          <Route path="/Terms" component={TermsScreen}>
             <TermsScreen />
           </Route>
           <Route>
