@@ -9,17 +9,17 @@ function App() {
   return (
     <div className="App">
       <Router>
-      <Switch>
-      <Route path="/privacy">
-      <PrivacyScreen/>
-      </Route>
-      <Route path="/Terms">
-      <TermsScreen/>
-      </Route>
-      <Route>
-        <MainScreen/>
-      </Route>
-      </Switch>
+        <Switch>
+          <Route path="/privacy">
+            <PrivacyScreen />
+          </Route>
+          <Route path="/Terms">
+            <TermsScreen />
+          </Route>
+          <Route>
+            <MainScreen />
+          </Route>
+        </Switch>
 
       </Router>
     </div>
