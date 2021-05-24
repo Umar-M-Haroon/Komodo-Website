@@ -1,29 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe3419b6.chunk.css",
-    "main.js": "/static/js/main.9cefe2a4.chunk.js",
-    "main.js.map": "/static/js/main.9cefe2a4.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b9d7cccc.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b9d7cccc.js.map",
-    "static/js/2.1cd5fd92.chunk.js": "/static/js/2.1cd5fd92.chunk.js",
-    "static/js/2.1cd5fd92.chunk.js.map": "/static/js/2.1cd5fd92.chunk.js.map",
+    "main.css": "/static/css/main.0e04840a.chunk.css",
+    "main.js": "/static/js/main.820a02fb.chunk.js",
+    "main.js.map": "/static/js/main.820a02fb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c5a3046d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c5a3046d.js.map",
+    "static/js/2.1d90b7d0.chunk.js": "/static/js/2.1d90b7d0.chunk.js",
+    "static/js/2.1d90b7d0.chunk.js.map": "/static/js/2.1d90b7d0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.143191513566c96244dcecd480e2ee84.js": "/precache-manifest.143191513566c96244dcecd480e2ee84.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.fe3419b6.chunk.css.map": "/static/css/main.fe3419b6.chunk.css.map",
-    "static/js/2.1cd5fd92.chunk.js.LICENSE": "/static/js/2.1cd5fd92.chunk.js.LICENSE",
-    "static/media/finale.png": "/static/media/finale.e91e5976.png",
-    "static/media/harbor.png": "/static/media/harbor.f28c4f26.png",
-    "static/media/homely.png": "/static/media/homely.fc7063ae.png",
-    "static/media/ipad.png": "/static/media/ipad.f92f3ce4.png",
-    "static/media/iphone.png": "/static/media/iphone.64c995ed.png",
-    "static/media/logo.png": "/static/media/logo.bc119e8c.png",
-    "static/media/mac.png": "/static/media/mac.741e5f0e.png"
+    "static/css/main.0e04840a.chunk.css.map": "/static/css/main.0e04840a.chunk.css.map",
+    "static/js/2.1d90b7d0.chunk.js.LICENSE.txt": "/static/js/2.1d90b7d0.chunk.js.LICENSE.txt",
+    "static/media/finale.c76003a8.png": "/static/media/finale.c76003a8.png",
+    "static/media/harbor.0dc20ebd.png": "/static/media/harbor.0dc20ebd.png",
+    "static/media/homely.731421db.png": "/static/media/homely.731421db.png",
+    "static/media/ipad.a9bf7c68.png": "/static/media/ipad.a9bf7c68.png",
+    "static/media/iphone.33313c6d.png": "/static/media/iphone.33313c6d.png",
+    "static/media/logo.cbf1a2eb.png": "/static/media/logo.cbf1a2eb.png",
+    "static/media/mac.9b90db3d.png": "/static/media/mac.9b90db3d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b9d7cccc.js",
-    "static/js/2.1cd5fd92.chunk.js",
-    "static/css/main.fe3419b6.chunk.css",
-    "static/js/main.9cefe2a4.chunk.js"
+    "static/js/runtime-main.c5a3046d.js",
+    "static/js/2.1d90b7d0.chunk.js",
+    "static/css/main.0e04840a.chunk.css",
+    "static/js/main.820a02fb.chunk.js"
   ]
 }
