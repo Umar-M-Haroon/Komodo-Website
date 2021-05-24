@@ -9,7 +9,6 @@ function App() {
   return (
     <div className="App">
       <Router>
-        <Switch>
           <Route path="/Privacy">
             <PrivacyScreen />
           </Route>
@@ -19,8 +18,6 @@ function App() {
           <Route>
             <MainScreen />
           </Route>
-        </Switch>
-
       </Router>
     </div>
   );
