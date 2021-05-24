@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <Router>
         <Switch>
-          <Route path="/privacy">
+          <Route path="/Privacy">
             <PrivacyScreen />
           </Route>
           <Route path="/Terms">
