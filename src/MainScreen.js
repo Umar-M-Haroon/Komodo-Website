@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react';
 import logo from './logo.png';
 import ipad from './ipad.png';
@@ -13,6 +14,7 @@ class MainScreen extends React.Component {
             <div>
                 <nav className="navbar navbar-expand-lg navbar-dark" style={{ background: "#414141" }}>
                     <img src={logo} className="Nav-Logo" width="60" height="66" alt="logo" ></img>
+                    
                     <a className="navbar-brand">Komodo LLC</a>
                     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
